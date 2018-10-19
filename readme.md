@@ -1,1 +1,3 @@
-This is a odin project
+# Platzi Git-Challenge
+
+Platzi pull and issues challenge
